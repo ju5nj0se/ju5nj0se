@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ju5nj0se/ju5nj0se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<p>
   <img src="./minesweeper.gif" width="600" alt="Buscaminas explotando">
 </p>
 
