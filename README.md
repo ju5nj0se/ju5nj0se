@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-![Minesweeper Explosion](./minesweeper.gif)
+  <img src="./minesweeper.gif" width="400" alt="Buscaminas explotando">
 </p>
+
