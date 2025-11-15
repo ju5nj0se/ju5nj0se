@@ -1,8 +1,8 @@
- 👋 Hi, I'm Juan José  
+# 👋 Hi, I'm Juan José  
 **Aspiring Full Stack Developer | Technology Enthusiast**
 
 <p align="center">
-  <img src="./minesweeper.gif" width="100%" alt="Minesweeper Game">
+  <img src="./minesweeper.gif" width="90%" alt="Minesweeper Game">
 </p>
 
 ##  About Me
