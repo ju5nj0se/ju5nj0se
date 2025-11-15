@@ -1,18 +1,26 @@
-<!--
-**ju5nj0se/ju5nj0se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👋 Hi, I'm Juan José  
+**Aspiring Full Stack Developer | Technology Enthusiast**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
-  <img src="./minesweeper.gif" width="600" alt="Buscaminas explotando">
+<p align="center">
+  <img src="./minesweeper.gif" width="100%" alt="Minesweeper Game">
 </p>
 
+##  About Me
+I embarked on my technology journey a year ago and it's been an incredible adventure! I'm passionate about building scalable applications and learning new technologies. There is nothing more rewarding than seeing clean and scalable code.
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=github,git,mongodb,postgresql,cs,dotnet,html,css,bootstrap,tailwind,notion,docker,kubernetes,javascript,npm,nodejs,prometheus,grafana)](https://sillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=raspberrypi,cpp,linux,)](https://skillicons.dev)
+
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/juan-jos%C3%A9-hern%C3%A1ndez-3a0524331/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+     <a href="mailto:juaan.josehernandez@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/email.png" alt="Email" width="35" height="35"/>
+  </a>
+</div>
