@@ -12,7 +12,7 @@ I embarked on my technology journey a year ago and it's been an incredible adven
 [![My Skills](https://skillicons.dev/icons?i=github,git,mongodb,postgresql,cs,dotnet,html,css,bootstrap,tailwind,notion,docker,kubernetes,javascript,npm,nodejs,prometheus,grafana)](https://sillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=raspberrypi,cpp,linux,)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kotlin,linux,)](https://skillicons.dev)
 
 
 ### Connect with me!
